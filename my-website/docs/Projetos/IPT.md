@@ -21,6 +21,10 @@ Principais características da aplicação web:
 
 Em resumo, a aplicação web desenvolvida para o IPT representa uma inovação significativa na apresentação e na análise de relatórios ferroviários de matéria-prima/equipamentos. Ao tornar o conteúdo mais interativo, acessível e compreensível, a ferramenta amplia o alcance e o impacto das informações contidas nos relatórios, capacitando uma variedade de usuários a tomar decisões informadas e estratégicas no contexto do transporte ferroviário de materiais e equipamentos.
 
+Abaixo segue a página do mapa interativo da aplicação web;
+
+![Imagem Jogo Vtal](/img/IPT.png)
+
 Atenciosamente,
 
 [RailTech](https://github.com/2023M2T8-Inteli/Projeto2) - IPT

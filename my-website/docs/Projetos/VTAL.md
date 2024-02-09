@@ -27,6 +27,10 @@ Principais características do Serious Game de Ética:
 
 Em suma, o Serious Game de Ética representa uma iniciativa inovadora da VTAL para fortalecer a cultura ética dentro da organização. Ao proporcionar uma experiência de aprendizado dinâmica e interativa, o jogo capacita os funcionários a agirem com integridade e responsabilidade em todas as esferas de sua atuação profissional.
 
+Abaixo segue uma imagem da tela inicial do jogo em questão;
+
+![Imagem Jogo Vtal](/img/Vtal-Jogo.png)
+
 Atenciosamente,
 
 [V.talícios](https://github.com/2023M1T8-Inteli/grupo2) - INTELI
